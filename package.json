@@ -1,0 +1,17 @@
+{
+  "name": "be.romainjavaux.maroom",
+  "version": "0.0.1",
+  "displayName": "Ma Room",
+  "description": "Ce package contient ma version de la room de la Technocité.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+  "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+  "licensesUrl": "https://yourcompany.com/yourpackage/licenses",
+  "author": {
+    "name": "Romain Javaux",
+    "email": "romain.javaux@gmail.com",
+    "url": "https://github.com/SaaronWrites/"
+  }
+
+}
